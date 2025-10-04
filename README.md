@@ -20,10 +20,9 @@ Bu proje, Flutter kullanılarak yapılmış çok basit bir **kartpostal uygulama
 ---
 
 ## 📷 Ekran Görüntüsü
+<img width="351" height="639" alt="Ekran görüntüsü 2025-10-04 184955" src="https://github.com/user-attachments/assets/fc01b0ef-596c-4259-8590-94ace43f810a" />
 
-![Kartpostal Ekranı](assets/screenshot.png)  
 
-> Not: `screenshot.png` kendi ekran görüntünüzle değiştirilebilir.
 
 ---
 
